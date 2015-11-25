@@ -3,7 +3,7 @@ C语言命令行下实现2048
 
 相关说明可参考文档[2048.pdf](https://github.com/msandroid/2048_C/2048.pdf)
 
-<img src="https://github.com/msandroid/2048_C/screenshot.png" alt="Drawing"  />
+<img src="https://github.com/msandroid/2048_C/blob/master/screenshot.png" alt="Drawing"  />
 
 License
 --------
